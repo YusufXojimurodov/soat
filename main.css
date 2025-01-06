@@ -1,0 +1,146 @@
+
+h4{
+    font-size: 44px;
+    text-align: center;
+    margin-top: 130px;
+}
+h1 {
+    font-size: 44px;
+    text-align: center;
+}
+
+.h2otasi {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.top{
+    background-color: #10B981;
+    padding: 20px 15px;
+    border-radius: 100px;
+}
+
+.otasi {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 93px;
+    margin-top: 92px;
+}
+
+.simli {
+    background-color: #ECFEF4;
+    width: 361px;
+    height: 438px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    padding-bottom: 18px;
+}
+
+.simsiz {
+    background-color: #C9F2FF;
+    width: 361px;
+    height: 438px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    padding-bottom: 18px;
+}
+
+.naushni {
+    background-color: #E5D5FF;
+    width: 361px;
+    height: 438px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    padding-bottom: 18px;
+}
+
+.oq {
+    background-color: white;
+    width: 319px;
+    height: 164px;
+    border-radius: 15px;
+}
+img{
+    margin-bottom: 30px;
+}
+.oqnidivi{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 76px 30px 52px;
+}
+h3{
+    font-size: 21px;
+}
+.yulduz{
+    color: red;
+    font-size: 18px;
+    margin-right: 20px;
+}
+.reviews{
+    font-size: 11px;
+}
+.narx{
+    font-size: 21px;
+}
+.button{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 29px;
+    gap: 93px;
+}
+.buttonh{
+    font-size: 21px;
+    width: 361px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: #10B981;
+    color: white;
+}
+.h2otasii{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.simlii{
+    background-color: #E0EFFF;
+    width: 361px;
+    height: 438px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    padding-bottom: 18px;
+}
+.simsizz{
+    background-color: #E8F9FF;
+    width: 361px;
+    height: 438px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    padding-bottom: 18px;
+}
+.naushnii{
+    background-color:#D3FBFB;
+    width: 361px;
+    height: 438px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    padding-bottom: 18px;
+}
